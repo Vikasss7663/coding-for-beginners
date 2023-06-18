@@ -15,4 +15,4 @@ Clean Syntax
 ## How to Set Up ?
 
 1. Download VSCode from [Download](https://code.visualstudio.com/download)
-2. Install C/C++ Extension Pack
+2. Install C/C++ Extension Pack from [Download](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools-extension-pack)
